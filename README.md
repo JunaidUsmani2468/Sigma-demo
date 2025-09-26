@@ -1,2 +1,2 @@
 # Sigma-demo
-This is a demo. (experimental)
+This is a demo. (experimental 🧨)
